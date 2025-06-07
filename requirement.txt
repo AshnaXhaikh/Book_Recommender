@@ -1,5 +1,6 @@
 streamlit 
 scikit-learn
 pandas
-sentence_transformers
+SentenceTransformer
+pandas
 faiss
