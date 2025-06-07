@@ -1,6 +1,6 @@
 streamlit 
 scikit-learn
 pandas
-SentenceTransformer
+sentence-transformers
 pandas
-faiss
+faiss-cpu
